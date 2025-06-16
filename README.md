@@ -1,6 +1,4 @@
-Here’s a cleaned-up and more polished version of your `README.md` file that’s ideal for GitHub. It improves clarity, formatting, and professionalism while keeping the structure and content intact.
 
-````markdown
 # ShopEasy – Flutter E-Commerce App
 
 ![ShopEasy Banner](assets/images/app_banner.png)
